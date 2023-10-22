@@ -43,7 +43,8 @@ HealthBot leverages technology to offer a comprehensive health solution, making 
 ![FRT_4](https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/82a9db0b-428c-4157-bd07-f1910154ea3f)
 ## Azure services and Working:
 ![FRT_01](https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/12c7b7ce-9665-497b-a96a-2929ced44e79)
-![FRT_02](https://github.com/Coffee-Expert/Health-bot-FRT/blob/main/images/newflowchart.png)
+![newflowchart](https://github.com/Akshitkt001/MS_FRT_HealthCareBot/assets/137613929/b00300c2-ef95-4cbc-a65f-bb4522d4856a)
+
 
 
 <!--- Previous image link-- https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/e6d622c8-fb30-450b-9761-4a5cd68b005b -->
