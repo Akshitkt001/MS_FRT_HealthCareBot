@@ -33,10 +33,9 @@ HealthBot is an intelligent health chatbot designed to address the need for acce
 
 HealthBot leverages technology to offer a comprehensive health solution, making it a valuable resource for individuals seeking reliable health information and support.
 ## Project ScreenShot:
-![FRT_1](https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/94e17158-1bb1-4db6-9700-7428ce400c79)
-![FRT_2](https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/74510e07-dac6-4f2a-b5ae-418703596bd4)
-![FRT_3](https://github.com/Akshitkt001/MS_FRT_HealthCareBot/assets/137613929/c493d0df-0c87-489f-865d-77429b3287c7)
-
+![image](https://github.com/Akshitkt001/MS_FRT_HealthCareBot/assets/137613929/9a415307-9ab2-4ab0-ab7e-eb5b07667050)
+![image](https://github.com/Akshitkt001/MS_FRT_HealthCareBot/assets/137613929/aae9b935-3d7a-4c68-a5b6-ce76ede8d482)
+![image](https://github.com/Akshitkt001/MS_FRT_HealthCareBot/assets/137613929/d4d375cd-0099-4182-b163-d4d80b6c05d3)
 
 ## HealthBot Working ScreenShot:
 ![FRT_6](https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/07a77307-2254-4bcb-a794-a955278e815e)
@@ -44,6 +43,7 @@ HealthBot leverages technology to offer a comprehensive health solution, making 
 ![FRT_4](https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/82a9db0b-428c-4157-bd07-f1910154ea3f)
 ## Azure services and Working:
 ![FRT_01](https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/12c7b7ce-9665-497b-a96a-2929ced44e79)
+![image](https://github.com/Akshitkt001/MS_FRT_HealthCareBot/assets/137613929/c616ad47-018f-4c0a-951e-0cbcdfb78946)
 
 
 
