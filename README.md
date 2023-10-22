@@ -35,7 +35,8 @@ HealthBot leverages technology to offer a comprehensive health solution, making 
 ## Project ScreenShot:
 ![FRT_1](https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/94e17158-1bb1-4db6-9700-7428ce400c79)
 ![FRT_2](https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/74510e07-dac6-4f2a-b5ae-418703596bd4)
-![FRT_3](https://github.com/Coffee-Expert/Health-bot-FRT/blob/main/images/CSS%20button%20nice%20huh.jpeg)
+![FRT_3](https://github.com/Akshitkt001/MS_FRT_HealthCareBot/assets/137613929/c493d0df-0c87-489f-865d-77429b3287c7)
+
 
 ## HealthBot Working ScreenShot:
 ![FRT_6](https://github.com/Coffee-Expert/Health-bot-FRT/assets/137613929/07a77307-2254-4bcb-a794-a955278e815e)
