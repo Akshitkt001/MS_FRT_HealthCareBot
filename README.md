@@ -6,7 +6,7 @@ A medical chatbot powered by Microsoft Azure. For Future Ready Talent Project
 
 ## Azure Services Used: Azure Health Bot, Azure Web Apps Service
 ## Project Description
-HealthBot is an intelligent health chatbot designed to address the need for accessible, reliable health information, and support. It aims to bridge the healthcare information gap, offering accurate information, personalized recommendations, and facilitating communication with healthcare professionals.
+HealthBot is an intelligent health chatbot designed to address the need for accessible, reliable health information, Voice assistant and support. It aims to bridge the healthcare information gap, offering accurate information, personalized recommendations, and facilitating communication with healthcare professionals.
 
 ## Project link:   https://github.com/Coffee-Expert/Health-bot-FRT   
 
@@ -24,10 +24,12 @@ HealthBot is an intelligent health chatbot designed to address the need for acce
 
 5. **Secure Communication:** HealthBot ensures data privacy and secure communication with healthcare professionals, complying with regulations.
 
+6. **Voice Assistant:** An embedded voice assistant that aids you in navigating through the app, and it automatically turns off after 10 minutes of inactivity.
+
 ## Mapping to the Problem Statement/Opportunity
 
 - **Problem Statement:** The need for accessible health information and communication with healthcare professionals.
-- **Solution Explanation:** HealthBot directly addresses this by providing accurate information, personalized plans, and connecting users with healthcare experts, bridging the healthcare information gap and empowering informed health decisions.
+- **Solution Explanation:** HealthBot directly addresses this by providing accurate information, personalized plans, and connecting users with healthcare experts, bridging the healthcare information gap and empowering informed health decisions and voice assistence for neviagte through the app.
 
 HealthBot leverages technology to offer a comprehensive health solution, making it a valuable resource for individuals seeking reliable health information and support.
 ## Project ScreenShot:
